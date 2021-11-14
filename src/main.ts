@@ -1,4 +1,4 @@
-import 'aframe'
+// import 'aframe'
 import App from './App.svelte';
 
 
